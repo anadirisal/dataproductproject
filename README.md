@@ -12,7 +12,8 @@ This is a tabulated data set providing longitudinal data on GDP, population and 
 Application
 
 The Shiny application can be found in the URL address:
+https://anadirisal.shinyapps.io/finalproject2017nov-gapminder/
 
-The code for this application can be found in the github address:
+This is the depository of the code.
 
 It provides a moving graphics of GDP against Life Expectancy which is very illuminating.
