@@ -14,6 +14,8 @@ Application
 The Shiny application can be found in the URL address:
 https://anadirisal.shinyapps.io/finalproject2017nov-gapminder/
 
-This is the depository of the code.
+The application provides moving graphics of GDP against Life Expectancy which is very illuminating.
 
-It provides a moving graphics of GDP against Life Expectancy which is very illuminating.
+
+
+
