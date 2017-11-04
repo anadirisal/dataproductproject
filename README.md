@@ -16,6 +16,6 @@ https://anadirisal.shinyapps.io/finalproject2017nov-gapminder/
 
 The application provides moving graphics of GDP against Life Expectancy which is very illuminating.
 
-
+Presentation-Pitch.Rpres is the presentation for the pitch.
 
 
