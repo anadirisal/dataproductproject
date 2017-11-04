@@ -13,19 +13,29 @@ creating a Shiny application and
 create a presentation in Rstudio Presenter to pitch for the application.
 
 - For this assignment, we used the gapminder  dataset from UsingR package.
-- This is a tabulated data set providing longitudinal data on GDP, population and Life Expectancy. I have filtered just the data for the Americas.
+
 
 
 Application
 ========================================================
 
 The Shiny application can be found in the URL address:
+https://anadirisal.shinyapps.io/finalproject2017nov-gapminder/
+
+-Graphics provides GDP against Life Expectancy which is very illuminating.
+-USA has done reasonably well compared to where is was in 1952 (largest bubble)
+
+Code for the Application
+========================================================
 
 The code for this application can be found in the github address:
+https://github.com/anadirisal/dataproductproject
 
-
-
-- It provides a moving graphics of GDP against Life Expectancy which is very illuminating.
+- app.R is the main shiny application. 
+  1. ui.R takes the input year. 
+  2. server.R draws the graph.
+- gapModule.R is a function that draws the graph.
+- data.R reads the data
 
 
 
