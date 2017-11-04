@@ -3,7 +3,7 @@ Data and the application
 
 This is a simple application that shows graphing capability.
 
-This is a shiny application that is final presentation for the Course Project of the “Developing data products” course. This course is part of the “Data Science specialization”. The project consists in two activities: creating a Shiny application and create a presentation in Rstudio Presenter to pitch for the application.
+This is a shiny application that is final presentation for the Course Project of the “Developing data products” course. This course is part of the “Data Science specialization”. The project consists of two activities: creating a Shiny application and create a presentation in Rstudio Presenter to pitch for the application.
 
 For this assignment, we used the gapminder dataset from UsingR package.
 
