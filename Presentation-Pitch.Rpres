@@ -4,15 +4,19 @@ author: Anadi Risal
 date: Nov 4, 2017
 autosize: true
 
-Data and the application
+Visualization of Gapminder data
 ========================================================
 This is a simple application that shows graphing capability.
 
-- This is a shiny application that is final presentation for the Course Project of the “Developing data products” course. This course is part of the “Data Science specialization”. The project consists in two activities:
-creating a Shiny application and
-create a presentation in Rstudio Presenter to pitch for the application.
 
 - For this assignment, we used the gapminder  dataset from UsingR package.
+
+Explanation of the model 
+========================================================
+We have first filtered just the data for the Americas. The data shows information on Gross Domestic Product (GDP) per capita and life expectancy for all the countries in the Americas. 
+- The Graph shows GDP Per Capita on X axis and the Life Expectancy on the Y axis.
+- The size of the bubble shows the population of the country.
+
 
 
 
@@ -22,8 +26,8 @@ Application
 The Shiny application can be found in the URL address:
 https://anadirisal.shinyapps.io/finalproject2017nov-gapminder/
 
--Graphics provides GDP against Life Expectancy which is very illuminating.
--USA has done reasonably well compared to where is was in 1952 (largest bubble)
+- Graphics provides GDP against Life Expectancy which is very illuminating.
+- USA has done reasonably well compared to where is was in 1952 (largest bubble)
 
 Code for the Application
 ========================================================
